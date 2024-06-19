@@ -7,7 +7,6 @@ This project is focused on detecting threatening calls by converting speech to t
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
   - [Fine-tuning DistilBERT](#fine-tuning-distilbert)
   - [Threat Identification from Calls](#threat-identification-from-calls)
