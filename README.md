@@ -32,11 +32,6 @@ This project leverages a fine-tuned DistilBERT model to classify transcribed spe
     cd threat-detection
     ```
 
-2. Install the required Python packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 ### Fine-tuning DistilBERT
