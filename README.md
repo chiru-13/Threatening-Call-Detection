@@ -24,14 +24,6 @@ This project leverages a fine-tuned DistilBERT model to classify transcribed spe
 - **Threat Detection**: Classifies the transcribed text as a threat or non-threat using a fine-tuned DistilBERT model.
 - **Alerts**: Sends alerts if a threat is detected in the call.
 
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/threat-detection.git
-    cd threat-detection
-    ```
-
 ## Usage
 
 ### Fine-tuning DistilBERT
